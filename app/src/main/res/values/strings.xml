@@ -1,4 +1,5 @@
 <resources>
     <string name="app_name">My Application</string>
     <string name="inputTextHint">Enter some words and push button</string>
+    <string name="labelText">Hello World !</string>
 </resources>
